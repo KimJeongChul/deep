@@ -1,1 +1,2 @@
-test.py
+import sys
+test
